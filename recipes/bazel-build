@@ -1,4 +1,4 @@
-(bazel-mode
+(bazel-build
  :repo "bazelbuild/emacs-bazel-mode"
  :fetcher github
- :files ("bazel-mode.el"))
+ :files ("bazel-build.el"))
